@@ -1,0 +1,65 @@
+[
+  {
+    "source_code_file_path": "dataset/lesson-1/1a.js",
+    "question": "What is the name of the function?",
+    "description": null,
+    "type": "multiple-choice",
+    "references": [
+      "https://www.w3schools.com/js/js_functions.asp"
+    ],
+    "choices": [
+      {
+        "a": "AddTwoNumber",
+        "correct": true
+      },
+      {
+        "b": "function"
+      },
+      {
+        "c": "a"
+      },
+      {
+        "d": "b"
+      }
+    ]
+  },
+  {
+    "source_code_file_path": "dataset/lesson-1/1a.js",
+    "question": "What javascript keywords can you see on the source code?",
+    "description": null,
+    "type": "multiple-choice",
+    "references": [
+      "https://www.w3schools.com/js/js_functions.asp"
+    ],
+    "choices": [
+      {
+        "a": "`function` and `return`",
+        "correct": true
+      },
+      {
+        "b": "AddTwoNumber"
+      },
+      {
+        "c": "`a` and `b`"
+      },
+      {
+        "d": "`return` only"
+      }
+    ]
+  },
+  {
+    "source_code_file_path": "dataset/lesson-1/1a.js",
+    "question": "How do you read the source code?",
+    "description": null,
+    "type": "flashcard",
+    "references": [
+      "https://www.w3schools.com/js/js_functions.asp"
+    ],
+    "choices": [
+      {
+        "a": "We define the function called `AddTwoNumbers` which has two parameters `a` and `b`. The function returns the sum of `a` and `b`.",
+        "correct": true
+      }
+    ]
+  }
+]
